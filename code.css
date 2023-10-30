@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.list{
+    background-color: rgb(170, 249, 224);
+    border-color: rgb(170, 249, 224);
+    padding-top: 15px;
+}
+.fur{
+    text-align: center;
+color: rgb(204, 203, 203);
+padding-top: 30px;
+}
+fieldset{
+    text-align: center;
+    width: 50%;
+    border: none;
+    padding: auto;
+    border-bottom: 1px solid grey;
+}
+div{
+    text-align: center;
+    padding-top: 200px;
+}
+
+
+
+
